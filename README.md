@@ -44,7 +44,17 @@ To keep everything working, do not remove `<!-- ... -->` sections.
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ## Roadmap
-### Syntax Support
+### Base Themes
+#### Dark
+- [ ] Soft
+- [ ] Medium
+- [ ] Hard
+
+#### Light
+- [ ] Soft
+- [ ] Medium
+- [ ] Hard
+### Full Syntax Support
 - [ ] Java/Intellij IDEA
 - [ ] Kotlin
 - [ ] Ruby/RubyMine
