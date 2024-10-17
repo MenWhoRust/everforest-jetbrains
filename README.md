@@ -62,12 +62,13 @@ To keep everything working, do not remove `<!-- ... -->` sections.
 - [ ] CSS
 - [ ] Javascript/WebStorm
 - [ ] TypeScript
-- [ ] C#
+- [ ] C#/Rider
 - [ ] JSON
 - [ ] XML
 - [ ] YAML
-- [ ] C/C++
-- [ ] Python
+- [ ] PHP/PHPStorm
+- [ ] C/C++/CLion
+- [ ] Python/PyCharm
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
