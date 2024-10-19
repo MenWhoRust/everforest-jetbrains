@@ -5,12 +5,12 @@
   "editorScheme": "/Everforest_Dark_Medium.xml",
   "colors": {
     "bg_dim" : "#232A2E",
-    "bg_0" : "#2D353B",
-    "bg_1" : "#343F44",
-    "bg_2" : "#3D484D",
-    "bg_3" : "#475258",
-    "bg_4" : "#4F585E",
-    "bg_5" : "#56635F",
+    "bg0" : "#2D353B",
+    "bg1" : "#343F44",
+    "bg2" : "#3D484D",
+    "bg3" : "#475258",
+    "bg4" : "#4F585E",
+    "bg5" : "#56635F",
     "bg_visual" : "#543A48",
     "bg_reg" : "#514045",
     "bg_green" : "#425047",
@@ -33,7 +33,7 @@
   },
   "ui": {
     "*": {
-      "background": "bg_0",
+      "background": "bg0",
       "selectionBackground": "bg1",
       "lightSelectionBackground": "bg1",
       "selectionBackgroundInactive": "bg1",

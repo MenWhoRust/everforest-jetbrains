@@ -1,9 +1,9 @@
 <scheme name="Everforest Dark Medium" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2024-10-19T16:57:13</property>
-        <property name="ide">Idea</property>
+        <property name="created">2024-10-19T17:37:49</property>
+        <property name="ide">idea</property>
         <property name="ideVersion">2023.3.8.0.0</property>
-        <property name="modified">2024-10-19T16:57:21</property>
+        <property name="modified">2024-10-19T17:37:54</property>
     </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="445349" />
@@ -195,6 +195,8 @@
                 <option name="EFFECT_COLOR" value="404c51" />
             </value>
         </option>
+        <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="a7c080" />
@@ -233,7 +235,8 @@
         </option>
         <option name="DEFAULT_CONSTANT">
             <value>
-                <option name="FOREGROUND" value="a7c080" />
+                <option name="FOREGROUND" value="83c092" />
+                <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT">
@@ -282,12 +285,12 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="d3c6aa" />
+                <option name="FOREGROUND" value="83c092" />
             </value>
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="a7c080" />
+                <option name="FOREGROUND" value="7fbbb3" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
@@ -449,6 +452,11 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="GHERKIN_REGEXP_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="a7c080" />
+            </value>
+        </option>
         <option name="GOTO_LABEL">
             <value>
                 <option name="FOREGROUND" value="e69875" />
@@ -460,11 +468,11 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
-        <option name="HTML_CUSTOM_TAG_NAME">
-            <value>
-                <option name="FOREGROUND" value="83c092" />
-            </value>
-        </option>
+        <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+        <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+        <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="HTML_TAG_NAME" />
+        <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+        <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="404c51" />
@@ -517,11 +525,6 @@
                 <option name="FOREGROUND" value="859289" />
             </value>
         </option>
-        <option name="JS.DECORATOR">
-            <value>
-                <option name="FOREGROUND" value="a7c080" />
-            </value>
-        </option>
         <option name="JS.DOT">
             <value>
                 <option name="FOREGROUND" value="859289" />
@@ -552,19 +555,10 @@
                 <option name="FOREGROUND" value="a7c080" />
             </value>
         </option>
-        <option name="JS.GLOBAL_VARIABLE">
-            <value>
-                <option name="FOREGROUND" value="d3c6aa" />
-            </value>
-        </option>
+        <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
         <option name="JS.INSTANCE_MEMBER_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="a7c080" />
-            </value>
-        </option>
-        <option name="JS.INSTANCE_MEMBER_VARIABLE">
-            <value>
-                <option name="FOREGROUND" value="d3c6aa" />
             </value>
         </option>
         <option name="JS.INTERFACE">
@@ -627,24 +621,14 @@
                 <option name="FOREGROUND" value="dbbc7f" />
             </value>
         </option>
-        <option name="JS.SEMICOLON">
-            <value>
-                <option name="FOREGROUND" value="859289" />
-            </value>
-        </option>
-        <option name="JS.STATIC_MEMBER_FUNCTION">
+        <option name="JS.REGEXP">
             <value>
                 <option name="FOREGROUND" value="a7c080" />
             </value>
         </option>
-        <option name="JS.STATIC_MEMBER_VARIABLE">
+        <option name="JS.SEMICOLON">
             <value>
-                <option name="FOREGROUND" value="d3c6aa" />
-            </value>
-        </option>
-        <option name="JS.STRING">
-            <value>
-                <option name="FOREGROUND" value="83c092" />
+                <option name="FOREGROUND" value="859289" />
             </value>
         </option>
         <option name="JS.TYPE_ALIAS">
@@ -719,6 +703,7 @@
                 <option name="FOREGROUND" value="dbbc7f" />
             </value>
         </option>
+        <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
         <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
             <value>
                 <option name="FOREGROUND" value="d699b6" />
@@ -753,6 +738,7 @@
                 <option name="FOREGROUND" value="e67e80" />
             </value>
         </option>
+        <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="MAGIC_MEMBER_ACCESS">
             <value />
         </option>
@@ -1515,6 +1501,83 @@
                 <option name="FOREGROUND" value="83c092" />
             </value>
         </option>
+        <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
+        <option name="RHTML_EXPRESSION_END_ID" baseAttributes="XML_TAG_NAME" />
+        <option name="RHTML_EXPRESSION_START_ID" baseAttributes="XML_TAG_NAME" />
+        <option name="RHTML_OMIT_NEW_LINE_ID" baseAttributes="XML_ATTRIBUTE_NAME" />
+        <option name="RHTML_SCRIPTING_BACKGROUND_ID" baseAttributes="XML_TAG_NAME" />
+        <option name="RHTML_SCRIPTLET_END_ID" baseAttributes="XML_TAG_NAME" />
+        <option name="RHTML_SCRIPTLET_START_ID" baseAttributes="XML_TAG_NAME" />
+        <option name="RUBY_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="dbbc7f" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="RUBY_CONSTANT_DECLARATION">
+            <value>
+                <option name="FOREGROUND" value="dbbc7f" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+        <option name="RUBY_HEREDOC_CONTENT">
+            <value>
+                <option name="FOREGROUND" value="a7c080" />
+                <option name="BACKGROUND" value="2f383e" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+        <option name="RUBY_HEREDOC_ID">
+            <value>
+                <option name="FOREGROUND" value="e69875" />
+                <option name="FONT_TYPE" value="1" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="RUBY_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="d3c6aa" />
+            </value>
+        </option>
+        <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+        <option name="RUBY_NTH_REF">
+            <value>
+                <option name="FOREGROUND" value="d699b6" />
+            </value>
+        </option>
+        <option name="RUBY_NUMBER" baseAttributes="DEFAULT_NUMBER" />
+        <option name="RUBY_PARAMDEF_CALL">
+            <value>
+                <option name="FOREGROUND" value="a7c080" />
+            </value>
+        </option>
+        <option name="RUBY_PARAMETER_ID">
+            <value>
+                <option name="FOREGROUND" value="d3c6aa" />
+            </value>
+        </option>
+        <option name="RUBY_REGEXP">
+            <value>
+                <option name="FOREGROUND" value="a7c080" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="RUBY_SPECIFIC_CALL">
+            <value>
+                <option name="FOREGROUND" value="e67e80" />
+            </value>
+        </option>
+        <option name="RUBY_SYMBOL">
+            <value>
+                <option name="FOREGROUND" value="83c092" />
+            </value>
+        </option>
+        <option name="RUBY_WORDS" baseAttributes="DEFAULT_STRING" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="e67e80" />
@@ -1522,6 +1585,7 @@
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
+        <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="83c092" />
@@ -1558,6 +1622,11 @@
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="859289" />
+            </value>
+        </option>
+        <option name="TS.TYPE_GUARD">
+            <value>
+                <option name="BACKGROUND" value="3a515d" />
             </value>
         </option>
         <option name="TYPO">
@@ -1643,5 +1712,6 @@
                 <option name="FOREGROUND" value="e69875" />
             </value>
         </option>
+        <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     </attributes>
 </scheme>
