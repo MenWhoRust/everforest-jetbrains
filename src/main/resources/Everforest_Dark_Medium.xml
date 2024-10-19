@@ -1,9 +1,9 @@
 <scheme name="Everforest Dark Medium" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2024-10-19T18:30:58</property>
-        <property name="ide">Rider</property>
-        <property name="ideVersion">2023.3.6.0.0</property>
-        <property name="modified">2024-10-19T18:31:07</property>
+        <property name="created">2024-10-19T18:42:51</property>
+        <property name="ide">GoLand</property>
+        <property name="ideVersion">2023.3.8.0.0</property>
+        <property name="modified">2024-10-19T18:42:57</property>
     </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="445349" />
@@ -477,6 +477,50 @@
                 <option name="FOREGROUND" value="e69875" />
             </value>
         </option>
+        <option name="GO_BUILTIN_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="d699b6" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="GO_BUILTIN_TYPE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="dbbc7f" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="d699b6" />
+            </value>
+        </option>
+        <option name="GO_EXPORTED_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="GO_LOCAL_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="GO_LOCAL_STRUCT_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="dbbc7f" />
+            </value>
+        </option>
+        <option name="GO_METHOD_RECEIVER" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="GO_PACKAGE">
+            <value>
+                <option name="FOREGROUND" value="d3c6aa" />
+            </value>
+        </option>
+        <option name="GO_PACKAGE_EXPORTED_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="d3c6aa" />
+            </value>
+        </option>
+        <option name="GO_STRUCT_EXPORTED_MEMBER">
+            <value>
+                <option name="FOREGROUND" value="7fbbb3" />
+            </value>
+        </option>
+        <option name="GO_STRUCT_LOCAL_MEMBER">
+            <value>
+                <option name="FOREGROUND" value="7fbbb3" />
+            </value>
+        </option>
         <option name="GRAMMAR_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="a7c080" />
@@ -510,9 +554,6 @@
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value />
         </option>
-        <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-        <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-        <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="JS.BADCHARACTER">
             <value>
                 <option name="BACKGROUND" value="544247" />
@@ -755,7 +796,7 @@
                 <option name="FOREGROUND" value="e67e80" />
             </value>
         </option>
-        <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+        <option name="LESS_VARIABLE" baseAttributes="" />
         <option name="MAGIC_MEMBER_ACCESS">
             <value />
         </option>
@@ -1548,7 +1589,7 @@
                 <option name="FOREGROUND" value="dbbc7f" />
             </value>
         </option>
-        <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+        <option name="SASS_VARIABLE" baseAttributes="" />
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="83c092" />
@@ -1674,6 +1715,6 @@
                 <option name="FOREGROUND" value="e69875" />
             </value>
         </option>
-        <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+        <option name="XPATH.XPATH_NAME" baseAttributes="" />
     </attributes>
 </scheme>
