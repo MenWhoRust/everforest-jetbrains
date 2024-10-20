@@ -1,18 +1,14 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.menwhorust.everforestjetbrains</id>
-    <name>everforest</name>
+    <id>com.github.menwhorust.everforest</id>
+    <name>Everforest</name>
     <vendor>menwhorust</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.MyBundle</resource-bundle>
-
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.menwhorust.everforestjetbrains.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <themeProvider id="bc553353-5cb9-473d-a3f4-30bb557354a3" path="/Everforest_Dark_Soft.theme.json"/>
+        <themeProvider id="af8527a2-968b-4d07-bc7c-3410811092ac" path="/Everforest_Dark_Medium.theme.json"/>
+        <themeProvider id="900ab38f-5b87-4d51-bdd8-590923e51f34" path="/Everforest_Dark_Hard.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.menwhorust.everforestjetbrains.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
 </idea-plugin>
