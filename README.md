@@ -46,29 +46,29 @@ To keep everything working, do not remove `<!-- ... -->` sections.
 ## Roadmap
 ### Base Themes
 #### Dark
-- [ ] Soft
-- [ ] Medium
-- [ ] Hard
+- [x] Soft
+- [x] Medium
+- [x] Hard
 
 #### Light
 - [ ] Soft
 - [ ] Medium
 - [ ] Hard
 ### Full Syntax Support
-- [ ] Java/Intellij IDEA
-- [ ] Kotlin
-- [ ] Ruby/RubyMine
-- [ ] HTML
-- [ ] CSS
-- [ ] Javascript/WebStorm
-- [ ] TypeScript
-- [ ] C#/Rider
-- [ ] JSON
-- [ ] XML
-- [ ] YAML
-- [ ] PHP/PHPStorm
-- [ ] C/C++/CLion
-- [ ] Python/PyCharm
+- [x] Java/Intellij IDEA
+- [x] Kotlin
+- [x] Ruby/RubyMine
+- [x] HTML
+- [x] CSS
+- [x] Javascript/WebStorm
+- [x] TypeScript
+- [x] C#/Rider
+- [x] JSON
+- [x] XML
+- [x] YAML
+- [x] PHP/PHPStorm
+- [x] C/C++/CLion
+- [x] Python/PyCharm
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].

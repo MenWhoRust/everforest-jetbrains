@@ -1,0 +1,155 @@
+{
+  "name": "Everforest Light Hard",
+  "dark": false,
+  "author": "",
+  "editorScheme": "/Everforest_Light_Hard.xml",
+  "colors": {
+    "bg_dim" : "#F2EFDF",
+    "bg0" : "#FFFBEF",
+    "bg1" : "#F8F5E4",
+    "bg2" : "#F2EFDF",
+    "bg3" : "#EDEADA",
+    "bg4" : "#E8E5D5",
+    "bg5" : "#BEC5B2",
+    "bgvisual" : "#F0F2D4",
+    "bgred" : "#FFE7DE",
+    "bggreen" : "#F3F5D9",
+    "bgblue" : "#ECF5ED",
+    "bgyellow" : "#FEF2D5",
+    "fg" : "#5C6A72",
+    "red" : "#F85552",
+    "orange" : "#F57D26",
+    "yellow" : "#DFA000",
+    "green" : "#8DA101",
+    "teal" : "#35A77C",
+    "blue" : "#3A94C5",
+    "purple" : "#DF69BA",
+    "grey0" : "#A6B0A0",
+    "grey1" : "#939F91",
+    "grey2" : "#829181",
+    "statusline1" : "#93B259",
+    "statusline2" : "#708089",
+    "statusline3" : "#E66868"
+  },
+  "ui": {
+    "*": {
+      "background": "bg0",
+      "foreground": "fg",
+
+      "infoForeground": "teal",
+
+      "lightSelectionBackground": "bg1",
+      "selectionBackground": "bg1",
+      "selectionForeground": "fg",
+
+      "selectionBackgroundInactive": "bg1",
+      "selectionInactiveBackground": "bg1",
+
+      "selectedBackground": "bg1",
+      "selectedForeground": "fg",
+      "selectedInactiveBackground": "bg1",
+      "selectedBackgroundInactive": "bg1",
+
+      "hoverBackground": "bg1",
+
+      "borderColor": "bg4",
+      "disabledBorderColor": "bg4",
+
+      "separatorColor": "bg1"
+    },
+    "Borders": {
+      "color": "bg2"
+    },
+    "Button": {
+      "startBackground": "bg0",
+      "endBackground": "bg0",
+      "startBorderColor": "bg4",
+      "endBorderColor": "bg4",
+      "shadowColor": "#1D2021",
+      "default": {
+        "foreground": "fg",
+        "startBackground": "bg1",
+        "endBackground": "bg1",
+        "startBorderColor": "blue",
+        "endBorderColor": "blue",
+        "focusedBorderColor": "bg4"
+      }
+    },
+    "ComboBox": {
+      "nonEditableBackground": "bg1",
+      "ArrowButton": {
+        "iconColor": "fg",
+        "disabledIconColor": "fg",
+        "nonEditableBackground": "bg1"
+      }
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "bg1",
+        "inactiveBackground": "bg1"
+      }
+    },
+    "EditorTabs": {
+      "underlineColor": "bg1",
+      "inactiveColoredFileBackground": "bg1"
+    },
+    "Link": {
+      "activeForeground": "blue",
+      "hoverForeground": "blue",
+      "pressedForeground": "blue",
+      "visitedForeground": "blue"
+    },
+    "Tree": {
+      "selectionBackground": "bg1"
+    },
+    "FileColor": {
+      "Yellow": "bgyellow",
+      "Green": "bggreen",
+      "Blue": "bgblue",
+      "Violet": "bgblue",
+      "Orange": "bgyellow",
+      "Rose": "bgred"
+    },
+    "Table": {
+      "stripeColor": "bg4",
+      "lightSelectionForeground": "fg",
+      "lightSelectionInactiveForeground":"fg",
+      "lightSelectionBackground": "bg2",
+      "lightSelectionInactiveBackground":"bg1"
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "bg1",
+      "usedBackground": "bg4"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default.Dark": "#282828",
+      "Checkbox.Border.Default.Dark": "#fbf1c7",
+      "Checkbox.Foreground.Selected.Dark": "#fbf1c7",
+      "Checkbox.Focus.Wide.Dark": "#458588",
+      "Checkbox.Focus.Thin.Default.Dark": "#458588",
+      "Checkbox.Focus.Thin.Selected.Dark": "#458588",
+      "Checkbox.Background.Disabled.Dark": "#282828",
+      "Checkbox.Border.Disabled.Dark": "#a89984",
+      "Checkbox.Foreground.Disabled.Dark": "#a89984",
+      "Actions.Grey": "#928374",
+      "Actions.Red": "#fb4934",
+      "Actions.Yellow": "#fabd2f",
+      "Actions.Green": "#b8bb26",
+      "Actions.Blue": "#83a598",
+      "Actions.GreyInline.Dark": "#fbf1c7",
+      "Objects.Grey": "#928374",
+      "Objects.RedStatus": "#cc241d",
+      "Objects.Red": "#fb4934",
+      "Objects.Pink": "#cb80a4ff",
+      "Objects.Yellow": "#fabd2f",
+      "Objects.Green": "#b8bb26",
+      "Objects.Blue": "#83a598",
+      "Objects.Purple": "#d3869b",
+      "Objects.BlackText": "#1D2021",
+      "Objects.YellowDark": "#d79921",
+      "Objects.GreenAndroid": "#8cbb68"
+    }
+  }
+}
