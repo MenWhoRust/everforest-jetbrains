@@ -1,9 +1,9 @@
 <scheme name="Everforest Dark Medium" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2024-10-19T18:42:51</property>
-        <property name="ide">GoLand</property>
-        <property name="ideVersion">2023.3.8.0.0</property>
-        <property name="modified">2024-10-19T18:42:57</property>
+        <property name="created">2024-10-19T18:53:13</property>
+        <property name="ide">CLion</property>
+        <property name="ideVersion">2023.3.6.0.0</property>
+        <property name="modified">2024-10-19T18:53:22</property>
     </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="445349" />
@@ -796,7 +796,7 @@
                 <option name="FOREGROUND" value="e67e80" />
             </value>
         </option>
-        <option name="LESS_VARIABLE" baseAttributes="" />
+        <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="MAGIC_MEMBER_ACCESS">
             <value />
         </option>
@@ -1034,7 +1034,7 @@
         </option>
         <option name="OC.DIRECTIVE">
             <value>
-                <option name="FOREGROUND" value="e67e80" />
+                <option name="FOREGROUND" value="d699b6" />
             </value>
         </option>
         <option name="OC.DOT">
@@ -1109,7 +1109,7 @@
         </option>
         <option name="OC.MACRO_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="d3c6aa" />
+                <option name="FOREGROUND" value="dbbc7f" />
             </value>
         </option>
         <option name="OC.NAMESPACE_LIKE">
@@ -1144,7 +1144,7 @@
         </option>
         <option name="OC.SELFSUPERTHIS">
             <value>
-                <option name="FOREGROUND" value="7fbbb3" />
+                <option name="FOREGROUND" value="d699b6" />
             </value>
         </option>
         <option name="OC.SEMICOLON">
@@ -1159,7 +1159,7 @@
         </option>
         <option name="OC.STRUCT_FIELD">
             <value>
-                <option name="FOREGROUND" value="a7c080" />
+                <option name="FOREGROUND" value="7fbbb3" />
             </value>
         </option>
         <option name="OC.STRUCT_LIKE">
@@ -1589,7 +1589,8 @@
                 <option name="FOREGROUND" value="dbbc7f" />
             </value>
         </option>
-        <option name="SASS_VARIABLE" baseAttributes="" />
+        <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+        <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="83c092" />
@@ -1597,6 +1598,11 @@
         </option>
         <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
         <option name="Static method access" baseAttributes="" />
+        <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="d699b6" />
+            </value>
+        </option>
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="d3c6aa" />
@@ -1715,6 +1721,6 @@
                 <option name="FOREGROUND" value="e69875" />
             </value>
         </option>
-        <option name="XPATH.XPATH_NAME" baseAttributes="" />
+        <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     </attributes>
 </scheme>
