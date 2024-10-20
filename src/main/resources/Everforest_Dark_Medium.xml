@@ -1,10 +1,4 @@
 <scheme name="Everforest Dark Medium" version="142" parent_scheme="Darcula">
-    <metaInfo>
-        <property name="created">2024-10-19T18:53:13</property>
-        <property name="ide">CLion</property>
-        <property name="ideVersion">2023.3.6.0.0</property>
-        <property name="modified">2024-10-19T18:53:22</property>
-    </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="445349" />
         <option name="ANNOTATIONS_COLOR" value="d3c6aa" />
