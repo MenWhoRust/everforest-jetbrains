@@ -399,6 +399,11 @@
         <option name="FOREGROUND" value="dbbc7f" />
       </value>
     </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="7fbbb3" />
+      </value>
+    </option>
     <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
@@ -436,7 +441,7 @@
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="a7c080" />
+        <option name="FOREGROUND" value="dbbc7f" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -497,6 +502,7 @@
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="83c092" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -522,7 +528,7 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="d8caac" />
-        <option name="BACKGROUND" value="e68183" />
+        <option name="BACKGROUND" value="e67e80" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -639,6 +645,8 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DOC_TEMPLATE_PARAMETER" baseAttributes="PHP_CLASS" />
+    <option name="DQL_EXPR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
@@ -689,7 +697,7 @@
     <option name="GO_BUILTIN_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="GO_BUILTIN_TYPE_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="dbbc7f" />
+        <option name="FOREGROUND" value="e67e80" />
       </value>
     </option>
     <option name="GO_BUILTIN_VARIABLE">
@@ -715,16 +723,7 @@
         <option name="FOREGROUND" value="d3c6aa" />
       </value>
     </option>
-    <option name="GO_STRUCT_EXPORTED_MEMBER">
-      <value>
-        <option name="FOREGROUND" value="7fbbb3" />
-      </value>
-    </option>
-    <option name="GO_STRUCT_LOCAL_MEMBER">
-      <value>
-        <option name="FOREGROUND" value="7fbbb3" />
-      </value>
-    </option>
+    <option name="GO_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
     <option name="GRAMMAR_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="a7c080" />
@@ -803,11 +802,6 @@
         <option name="FOREGROUND" value="a7c080" />
       </value>
     </option>
-    <option name="JS.EXPORTED.VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="d3c6aa" />
-      </value>
-    </option>
     <option name="JS.FUNCTION_ARROW">
       <value>
         <option name="FOREGROUND" value="e69875" />
@@ -849,11 +843,7 @@
         <option name="FOREGROUND" value="a7c080" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="d3c6aa" />
-      </value>
-    </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="7fbbb3" />
@@ -985,6 +975,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="d3c6aa" />
@@ -1208,12 +1199,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="525c62" />
-      </value>
-    </option>
-    <option name="MATCHED_TAG_NAME">
-      <value>
-        <option name="BACKGROUND" value="525c62" />
+        <option name="BACKGROUND" value="3a515d" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -1464,6 +1450,7 @@
     <option name="PHP_CONCATENATION">
       <value />
     </option>
+    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="PHP_DOC_COMMENT_ID">
       <value>
         <option name="FOREGROUND" value="859289" />
@@ -1618,6 +1605,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="e69875" />
@@ -1761,6 +1749,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="a7c080" />
@@ -1780,11 +1769,13 @@
         <option name="FOREGROUND" value="d3c6aa" />
       </value>
     </option>
+    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_NTH_REF">
       <value>
         <option name="FOREGROUND" value="d699b6" />
       </value>
     </option>
+    <option name="RUBY_NUMBER" baseAttributes="DEFAULT_NUMBER" />
     <option name="RUBY_PARAMDEF_CALL">
       <value>
         <option name="FOREGROUND" value="a7c080" />
@@ -1811,6 +1802,7 @@
         <option name="FOREGROUND" value="83c092" />
       </value>
     </option>
+    <option name="RUBY_WORDS" baseAttributes="DEFAULT_STRING" />
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="e67e80" />
