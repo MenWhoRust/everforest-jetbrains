@@ -45,6 +45,9 @@
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="404c51" />
         <option name="INDENT_GUIDE" value="404c51" />
         <option name="INFORMATION_HINT" value="3b5360" />
+        <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="475258" />
+        <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="4f585e" />
+        <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="56635f" />
         <option name="LINE_NUMBERS_COLOR" value="596763" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d3c6aa" />
         <option name="LOOKUP_COLOR" value="2f383e" />
@@ -756,6 +759,30 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value />
+        </option>
+        <option name="INLAY_DEFAULT">
+            <value>
+                <option name="FOREGROUND" value="9da9a0" />
+                <option name="BACKGROUND" value="475258" />
+            </value>
+        </option>
+        <option name="INLINE_PARAMETER_HINT">
+            <value>
+                <option name="FOREGROUND" value="9da9a0" />
+                <option name="BACKGROUND" value="475258" />
+            </value>
+        </option>
+        <option name="INLINE_PARAMETER_HINT_CURRENT">
+            <value>
+                <option name="FOREGROUND" value="9da9a0" />
+                <option name="BACKGROUND" value="56635f" />
+            </value>
+        </option>
+        <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+            <value>
+                <option name="FOREGROUND" value="9da9a0" />
+                <option name="BACKGROUND" value="3a515d" />
+            </value>
         </option>
         <option name="JS.BADCHARACTER">
             <value>
