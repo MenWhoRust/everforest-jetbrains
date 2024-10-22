@@ -777,11 +777,6 @@
         <option name="FOREGROUND" value="d3c6aa" />
       </value>
     </option>
-    <option name="JS.CLASS">
-      <value>
-        <option name="FOREGROUND" value="a7c080" />
-      </value>
-    </option>
     <option name="JS.COMMA">
       <value>
         <option name="FOREGROUND" value="859289" />
@@ -1867,6 +1862,11 @@
     <option name="TS.TYPE_GUARD">
       <value>
         <option name="BACKGROUND" value="3a515d" />
+      </value>
+    </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="dbbc7f" />
       </value>
     </option>
     <option name="TYPO">
