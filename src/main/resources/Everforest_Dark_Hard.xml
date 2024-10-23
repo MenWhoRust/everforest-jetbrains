@@ -2,10 +2,13 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="445349" />
     <option name="ANNOTATIONS_COLOR" value="d3c6aa" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="272e33" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="272e33" />
     <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="272e33" />
     <option name="BLOCK_TERMINAL_DEFAULT_FOREGROUND" value="d3c7aa" />
     <option name="BLOCK_TERMINAL_GENERATE_COMMAND_CARET_COLOR" value="d699b6" />
     <option name="BLOCK_TERMINAL_GENERATE_COMMAND_PLACEHOLDER_FOREGROUND" value="d699b6" />
+    <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="7a8478" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="3a515d" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="7fbbb3" />
     <option name="CARET_COLOR" value="d3c6aa" />
