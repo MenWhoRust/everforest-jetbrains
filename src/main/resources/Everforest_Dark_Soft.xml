@@ -1,11 +1,14 @@
-<scheme name="Everforest Dark Soft" version="142" parent_scheme="Default">
+<scheme name="Everforest Dark Soft" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="445349" />
         <option name="ANNOTATIONS_COLOR" value="d3c6aa" />
+        <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="333c43" />
+        <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="333c43" />
         <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="333c43" />
         <option name="BLOCK_TERMINAL_DEFAULT_FOREGROUND" value="d3c7aa" />
         <option name="BLOCK_TERMINAL_GENERATE_COMMAND_CARET_COLOR" value="d699b6" />
         <option name="BLOCK_TERMINAL_GENERATE_COMMAND_PLACEHOLDER_FOREGROUND" value="d699b6" />
+        <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="7a8478" />
         <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="3a515d" />
         <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="7fbbb3" />
         <option name="CARET_COLOR" value="d3c6aa" />
@@ -675,6 +678,20 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="FOLDED_TEXT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="8c8c8c" />
+                <option name="BACKGROUND" value="3a3a3a" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="287bde" />
+                <option name="EFFECT_COLOR" value="287bde" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="GENERIC_SERVER_ERROR_OR_WARNING">
             <value>
                 <option name="EFFECT_COLOR" value="e67e80" />
@@ -738,6 +755,13 @@
         <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="HTML_TAG_NAME" />
         <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
         <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="HYPERLINK_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="287bde" />
+                <option name="EFFECT_COLOR" value="287bde" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="404c51" />
@@ -1014,6 +1038,16 @@
             </value>
         </option>
         <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+        <option name="LIVE_TEMPLATE_ATTRIBUTES">
+            <value>
+                <option name="EFFECT_COLOR" value="80bfff" />
+            </value>
+        </option>
+        <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
+            <value>
+                <option name="EFFECT_COLOR" value="737373" />
+            </value>
+        </option>
         <option name="LOG_DEBUG_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="83c092" />
@@ -1839,6 +1873,12 @@
         </option>
         <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
         <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+        <option name="SEARCH_RESULT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="155221" />
+                <option name="ERROR_STRIPE_COLOR" value="530d" />
+            </value>
+        </option>
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="83c092" />
@@ -1861,6 +1901,13 @@
                 <option name="FOREGROUND" value="d3c6aa" />
                 <option name="BACKGROUND" value="2f383e" />
                 <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+        <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="32593d" />
+                <option name="EFFECT_COLOR" value="3c704b" />
+                <option name="ERROR_STRIPE_COLOR" value="61936f" />
             </value>
         </option>
         <option name="TEXT_STYLE_ERROR">
@@ -1917,6 +1964,12 @@
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="404c51" />
+            </value>
+        </option>
+        <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="532b2e" />
+                <option name="ERROR_STRIPE_COLOR" value="8d4457" />
             </value>
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">
