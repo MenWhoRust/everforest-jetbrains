@@ -1,4 +1,4 @@
-<scheme name="Everforest Dark Soft" version="142" parent_scheme="Default">
+<scheme name="Everforest Dark Soft" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="445349" />
         <option name="ANNOTATIONS_COLOR" value="d3c6aa" />
