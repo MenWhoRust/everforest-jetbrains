@@ -1,6 +1,9 @@
-<img src="src/main/resources/META-INF/pluginLogo.svg" alt="Plugin Logo" width="300"/>
+<div align="center">
+  <img src="src/main/resources/META-INF/pluginLogo.svg" alt="Plugin Logo" width="300"/>
+</div>
+<h1 align="center"> everforest-jetbrains </h1>
 
-# everforest-jetbrains
+---------------------------------------------------
 
 ![Build](https://github.com/MenWhoRust/everforest-jetbrains/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
