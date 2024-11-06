@@ -1,3 +1,5 @@
+<img src="src/main/resources/META-INF/pluginLogo.svg" alt="Plugin Logo" width="300"/>
+
 # everforest-jetbrains
 
 ![Build](https://github.com/MenWhoRust/everforest-jetbrains/workflows/Build/badge.svg)
