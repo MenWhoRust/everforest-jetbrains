@@ -1006,6 +1006,7 @@
                 <option name="FOREGROUND" value="d3c6aa" />
             </value>
         </option>
+        <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
         <option name="KOTLIN_SMART_CAST_RECEIVER">
             <value>
                 <option name="FOREGROUND" value="a7c080" />
@@ -1016,6 +1017,7 @@
                 <option name="FOREGROUND" value="e67e80" />
             </value>
         </option>
+        <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
         <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="LOG_DEBUG_OUTPUT">
             <value>
@@ -1789,11 +1791,6 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
-        <option name="RUBY_IDENTIFIER">
-            <value>
-                <option name="FOREGROUND" value="d3c6aa" />
-            </value>
-        </option>
         <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="RUBY_NTH_REF">
             <value>
@@ -1848,6 +1845,8 @@
             </value>
         </option>
         <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+        <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+        <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
         <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
             <value>
@@ -1895,6 +1894,11 @@
             </value>
         </option>
         <option name="TS.TYPE_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="dbbc7f" />
+            </value>
+        </option>
+        <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="dbbc7f" />
             </value>
