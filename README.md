@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/main/resources/META-INF/pluginLogo.svg" alt="Plugin Logo" width="300"/>
+  <img src="src/main/resources/META-INF/pluginIcon.svg" alt="Plugin Logo" width="300"/>
 </div>
 <h1 align="center"> everforest-jetbrains </h1>
 
