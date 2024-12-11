@@ -10,5 +10,8 @@
         <themeProvider id="bc553353-5cb9-473d-a3f4-30bb557354a3" path="/Everforest_Dark_Soft.theme.json"/>
         <themeProvider id="af8527a2-968b-4d07-bc7c-3410811092ac" path="/Everforest_Dark_Medium.theme.json"/>
         <themeProvider id="900ab38f-5b87-4d51-bdd8-590923e51f34" path="/Everforest_Dark_Hard.theme.json"/>
+        <themeProvider id="5e6703bc-75c1-4be3-a05a-a01a82f3543d" path="/Everforest_Light_Soft.theme.json"/>
+        <themeProvider id="7988d3c5-9186-44e0-b05b-4f704e81094f" path="/Everforest_Light_Medium.theme.json"/>
+        <themeProvider id="527dbf86-feef-4a3f-bf65-8fc9b771be45" path="/Everforest_Light_Hard.theme.json"/>
     </extensions>
 </idea-plugin>
