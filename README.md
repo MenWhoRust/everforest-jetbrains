@@ -6,8 +6,8 @@
 ---------------------------------------------------
 
 ![Build](https://github.com/MenWhoRust/everforest-jetbrains/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/26086.svg)](https://plugins.jetbrains.com/plugin/26086)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/26086.svg)](https://plugins.jetbrains.com/plugin/26086)
 
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
