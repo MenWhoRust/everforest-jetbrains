@@ -22,7 +22,7 @@
 - [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
 
 <!-- Plugin description -->
-An implementation of the [Everforest](https://github.com/sainnhe/everforest/) them by [sainhe](https://github.com/sainhe) for JetBrains IDEs.
+An implementation of the [Everforest](https://github.com/sainnhe/everforest/) theme by [sainhe](https://github.com/sainhe) for JetBrains IDEs.
 <!-- Plugin description end -->
 
 ## Installation
