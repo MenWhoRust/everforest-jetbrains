@@ -29,7 +29,7 @@ jobs:
   # Prepare environment and build the plugin
   build:
     name: Build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     outputs:
       version: ${{ steps.properties.outputs.version }}
       changelog: ${{ steps.properties.outputs.changelog }}
@@ -121,7 +121,7 @@ jobs:
   test:
     name: Test
     needs: [ build ]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
 
       # Check out the current repository
@@ -161,7 +161,7 @@ jobs:
   inspectCode:
     name: Inspect code
     needs: [ build ]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     permissions:
       contents: write
       checks: write
@@ -199,7 +199,7 @@ jobs:
   verify:
     name: Verify plugin
     needs: [ build ]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
 
       # Free GitHub Actions Environment Disk Space
