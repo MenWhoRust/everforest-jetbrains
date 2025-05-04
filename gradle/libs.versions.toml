@@ -9,7 +9,7 @@ intelliJPlatform = "2.5.0"
 kotlin = "2.1.20"
 
 
-qodana = "2024.3.4"
+qodana = "2025.1.0"
 kover = "0.9.1"
 
 
