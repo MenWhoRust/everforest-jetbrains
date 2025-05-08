@@ -13,7 +13,7 @@
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="7fbbb3" />
     <option name="CARET_COLOR" value="d3c6aa" />
     <option name="CARET_ROW_COLOR" value="374247" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2d353b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="272e33" />
     <option name="DELETED_LINES_COLOR" value="544247" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="3b5360" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="d3c6aa" />
@@ -25,7 +25,7 @@
     <option name="DIAGRAM_NOTE_BORDER" value="495259" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="a7c080" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3c474d" />
-    <option name="DOCUMENTATION_COLOR" value="2f383e" />
+    <option name="DOCUMENTATION_COLOR" value="272e33" />
     <option name="ERROR_HINT" value="544247" />
     <option name="FILESTATUS_ADDED" value="a7c080" />
     <option name="FILESTATUS_DELETED" value="e67e80" />
@@ -42,7 +42,7 @@
     <option name="FILESTATUS_addedOutside" value="a7c080" />
     <option name="FILESTATUS_changelistConflict" value="3b5360" />
     <option name="FILESTATUS_modifiedOutside" value="dbbc7f" />
-    <option name="GUTTER_BACKGROUND" value="2f383e" />
+    <option name="GUTTER_BACKGROUND" value="272e33" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="404c51" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="404c51" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="404c51" />
@@ -53,13 +53,13 @@
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="4f5b58" />
     <option name="LINE_NUMBERS_COLOR" value="596763" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d3c6aa" />
-    <option name="LOOKUP_COLOR" value="2f383e" />
+    <option name="LOOKUP_COLOR" value="272e33" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="3b5360" />
     <option name="NOTIFICATION_BACKGROUND" value="3c474d" />
     <option name="PROMOTION_PANE" value="3b5360" />
     <option name="QUESTION_HINT" value="3b5360" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="2f383e" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="272e33" />
     <option name="RIGHT_MARGIN_COLOR" value="3c474d" />
     <option name="SELECTED_INDENT_GUIDE" value="3b5360" />
     <option name="SELECTED_TEARLINE_COLOR" value="495259" />
@@ -1811,7 +1811,7 @@
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="a7c080" />
-        <option name="BACKGROUND" value="2f383e" />
+        <option name="BACKGROUND" value="272e33" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1898,7 +1898,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d3c6aa" />
-        <option name="BACKGROUND" value="2f383e" />
+        <option name="BACKGROUND" value="272e33" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
