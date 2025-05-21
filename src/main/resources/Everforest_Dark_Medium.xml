@@ -405,6 +405,11 @@
                 <option name="FOREGROUND" value="dbbc7f" />
             </value>
         </option>
+        <option name="CSS.CLASS_NAME">
+            <value>
+                <option name="FOREGROUND" value="e67e80" />
+            </value>
+        </option>
         <option name="CSS.COLOR">
             <value>
                 <option name="FOREGROUND" value="7fbbb3" />
@@ -740,7 +745,11 @@
         <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
         <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="HTML_TAG_NAME" />
         <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-        <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="HTML_TAG_NAME">
+            <value>
+                <option name="FOREGROUND" value="e69875" />
+            </value>
+        </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="404c51" />
