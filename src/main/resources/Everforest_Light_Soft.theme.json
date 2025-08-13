@@ -67,9 +67,9 @@
       "endBorderColor": "bg4",
       "shadowColor": "#1D2021",
       "default": {
-        "foreground": "fg",
-        "startBackground": "bg1",
-        "endBackground": "bg1",
+        "foreground": "bg0",
+        "startBackground": "blue",
+        "endBackground": "blue",
         "startBorderColor": "blue",
         "endBorderColor": "blue",
         "focusedBorderColor": "bg4"
