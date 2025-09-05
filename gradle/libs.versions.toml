@@ -6,10 +6,10 @@ junit = "4.13.2"
 changelog = "2.4.0"
 
 intelliJPlatform = "2.6.0"
-kotlin = "2.2.0"
+kotlin = "2.2.10"
 
 
-qodana = "2025.1.1"
+qodana = "2025.2.1"
 kover = "0.9.1"
 
 
