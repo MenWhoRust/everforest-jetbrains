@@ -12,7 +12,7 @@ intelliJPlatform = "2.9.0"
 
 
 qodana = "2025.2.1"
-kover = "0.9.1"
+kover = "0.9.3"
 
 
 [libraries]
