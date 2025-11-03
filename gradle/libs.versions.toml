@@ -7,7 +7,7 @@ changelog = "2.4.0"
 
 
 kotlin = "2.2.20"
-intelliJPlatform = "2.9.0"
+intelliJPlatform = "2.10.4"
 
 
 
