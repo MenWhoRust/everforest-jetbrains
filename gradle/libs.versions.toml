@@ -6,7 +6,7 @@ junit = "4.13.2"
 changelog = "2.4.0"
 
 
-kotlin = "2.2.20"
+kotlin = "2.2.21"
 intelliJPlatform = "2.9.0"
 
 
