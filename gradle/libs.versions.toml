@@ -3,16 +3,14 @@
 junit = "4.13.2"
 
 # plugins
-changelog = "2.4.0"
+changelog = "2.5.0"
 
 
-kotlin = "2.2.20"
-intelliJPlatform = "2.9.0"
+kotlin = "2.3.20"
+intelliJPlatform = "2.14.0"
 
-
-
-qodana = "2025.2.1"
-kover = "0.9.3"
+qodana = "2025.3.2"
+kover = "0.9.8"
 
 
 [libraries]
