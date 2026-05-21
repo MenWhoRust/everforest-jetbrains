@@ -13,5 +13,11 @@
         <themeProvider id="5e6703bc-75c1-4be3-a05a-a01a82f3543d" path="/Everforest_Light_Soft.theme.json"/>
         <themeProvider id="7988d3c5-9186-44e0-b05b-4f704e81094f" path="/Everforest_Light_Medium.theme.json"/>
         <themeProvider id="527dbf86-feef-4a3f-bf65-8fc9b771be45" path="/Everforest_Light_Hard.theme.json"/>
+        <themeProvider id="c3d74e85-1a2b-4c5d-9e0f-6a7b8c9d0e1f" path="/Everforest_Dark_Soft_Islands.theme.json"/>
+        <themeProvider id="d4e85f96-2b3c-4d6e-af1a-7b8c9d0e1f2a" path="/Everforest_Dark_Medium_Islands.theme.json"/>
+        <themeProvider id="e5f9a0b7-3c4d-4e7f-8a2b-8c9d0e1f2a3b" path="/Everforest_Dark_Hard_Islands.theme.json"/>
+        <themeProvider id="f6a071b8-4d5e-4f80-bb3c-9d0e1f2a3b4c" path="/Everforest_Light_Soft_Islands.theme.json"/>
+        <themeProvider id="a7b182c9-5e6f-4091-ac4d-0e1f2a3b4c5d" path="/Everforest_Light_Medium_Islands.theme.json"/>
+        <themeProvider id="b8c293da-6f70-4102-bd5e-1f2a3b4c5d6e" path="/Everforest_Light_Hard_Islands.theme.json"/>
     </extensions>
 </idea-plugin>
