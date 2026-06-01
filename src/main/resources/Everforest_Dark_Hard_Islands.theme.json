@@ -82,14 +82,15 @@
     "ToolWindow": {
       "background": "bg0",
       "Header": {
-        "background": "bg1",
-        "inactiveBackground": "bg1"
+        "background": "bg0",
+        "inactiveBackground": "bg0"
       },
       "Stripe": {
-        "borderColor": "#00000000"
+        "borderColor": "#272E3300"
       }
     },
     "EditorTabs": {
+      "background": "bg1",
       "underlineColor": "bg1",
       "inactiveColoredFileBackground": "bg1"
     },
@@ -122,16 +123,24 @@
       "usedBackground": "bg4"
     },
     "MainWindow": {
-      "background": "bg_dim"
+      "background": "bg0"
     },
     "Island": {
-      "borderColor": "bg0"
+      "borderColor": "bg1"
+    },
+    "OnePixelDivider": {
+      "background": "bg2"
     },
     "StatusBar": {
-      "borderColor": "#00000000"
+      "borderColor": "#272E3300"
     },
     "MainToolbar": {
-      "borderColor": "#00000000"
+      "background": "bg0",
+      "borderColor": "#272E3300"
+    },
+    "TitlePane": {
+      "background": "bg0",
+      "inactiveBackground": "bg0"
     }
   },
   "icons": {
